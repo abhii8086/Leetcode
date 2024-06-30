@@ -1,5 +1,5 @@
 class Solution {
-    public int maxProfit(int[] prices) {
+//    public int maxProfit(int[] prices) {
        // initial price of stock
        int buyPrice = prices[0];
        // initial profit is zero because buyPrice==sellPrice 
